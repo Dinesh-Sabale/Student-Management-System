@@ -1,0 +1,2 @@
+101|Rahul Patil|rahul@example.com|Computer Engineering|86.50
+102|Sneha Sharma|sneha@example.com|Information Technology|91.00
